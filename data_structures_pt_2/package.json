@@ -1,0 +1,15 @@
+{
+  "name": "data_structures_pt_2",
+  "version": "0.1.0",
+  "description": "Data structures assignment not on arrays",
+  "main": "data_structures_2.js",
+  "dependencies": {
+    "chai": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan Moberg",
+  "license": "MIT"
+}
