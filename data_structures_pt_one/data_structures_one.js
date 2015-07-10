@@ -36,9 +36,7 @@ function shift(array) {
 	array.length--;
 	return arg;
 }
-var array6 = ['dog', 'cat', 'rat'];
-shift(array6);
-console.log(array6);
+
 
 
 
